@@ -1,0 +1,27 @@
+{
+  "name": "neon_silverblack",
+  "version": "0.1.0",
+  "publisher": "Jabor047",
+  "description": "Neon Silver-font Pitch-black ui",
+  "repository":"https://github.com/Jabor047/Neon_SilverBlack",
+  "engines": {
+		"vscode": "^1.18.0"
+	},
+  "categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hyper Term Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Neon_SilverBlack.json"
+			}
+		]
+	},
+  "keywords": [
+    "black",
+    "neon",
+    "silver"
+  ]
+}
