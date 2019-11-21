@@ -58,9 +58,9 @@
         "list.hoverBackground": "#000000",
         "list.hoverForeground": "#00FF9C",
         "list.highlightForeground": "#C5C5C5",
-        "list.inactiveSelectionBackground": "#2c313a",
+        "list.inactiveSelectionBackground": "#000000",
         "list.inactiveSelectionForeground": "#d7dae0",
-        "notifications.background": "#21252b",
+        "notifications.background": "#000000",
         "peekViewEditor.matchHighlightBackground": "#29244b",
         "scrollbarSlider.background": "#4E566680",
         "scrollbarSlider.activeBackground": "#747D9180",
@@ -97,7 +97,11 @@
         "titleBar.inactiveForeground": "#c9c9c9",
         "listFilterWidget.background": "#000000",
         "listFilterWidget.outline": "#4D78CC",
-        "listFilterWidget.noMatchesOutline": "#c24038"
+        "listFilterWidget.noMatchesOutline": "#c24038",
+        "breadcrumb.foreground": "#c9c9c9",
+        "breadcrumb.background": "#000000",
+        "breadcrumb.activeSelectionForeground": "#00FF9c",
+        "breadcrumbPicker.background": "#000000"
     },
     "tokenColors": [
     {
