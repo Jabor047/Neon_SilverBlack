@@ -1,13 +1,13 @@
 {
-  "name": "neon-silver-black-theme",
-  "version": "0.1.0",
-  "publisher": "Jabor047",
-  "description": "Neon Silver-font Pitch-black ui",
-  "repository":"https://github.com/Jabor047/Neon_SilverBlack",
-  "engines": {
+	"name": "neon-silver-black-theme",
+	"version": "1.0.0",
+	"publisher": "Jabor047",
+	"description": "Neon Silver-font Pitch-black ui",
+	"repository": "https://github.com/Jabor047/Neon_SilverBlack",
+	"engines": {
 		"vscode": "^1.18.0"
 	},
-  "categories": [
+	"categories": [
 		"Themes"
 	],
 	"contributes": {
@@ -19,9 +19,9 @@
 			}
 		]
 	},
-  "keywords": [
-    "black",
-    "neon",
-    "silver"
-  ]
+	"keywords": [
+		"black",
+		"neon",
+		"silver"
+	]
 }
