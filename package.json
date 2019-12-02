@@ -13,7 +13,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Hyper Term Black",
+				"label": "Neon Black Silver",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Neon_SilverBlack.json"
 			}
