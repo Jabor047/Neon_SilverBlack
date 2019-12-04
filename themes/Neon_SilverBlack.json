@@ -170,6 +170,13 @@
         }
         },
         {
+            "name": "terminator",
+            "scope": "punctuation.terminator.statement",
+            "settings":{
+                "foreground": "#00FF9C"
+            }
+        },
+        {
         "name": "Comment Markup Link",
         "scope": "comment markup.link",
         "settings": {
@@ -783,14 +790,14 @@
         "name": "Tags",
         "scope": "entity.name.tag",
         "settings": {
-            "foreground": "#EF596F"
+            "foreground": "#D55FDE"
         }
         },
         {
         "name": "Attributes",
         "scope": "entity.other.attribute-name",
         "settings": {
-            "foreground": "#D8985F"
+            "foreground": "#00FF9c"
         }
         },
         {
