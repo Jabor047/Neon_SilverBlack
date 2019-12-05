@@ -339,7 +339,7 @@
         "scope":
             "support.constant.property-value.scss,support.constant.property-value.css",
         "settings": {
-            "foreground": "#D8985F"
+            "foreground": "#00FF9c"
         }
         },
         {
