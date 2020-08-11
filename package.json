@@ -23,5 +23,8 @@
 		"black",
 		"neon",
 		"silver"
-	]
+	],
+	"devDependencies": {
+		"vsce": "^1.77.0"
+	}
 }
