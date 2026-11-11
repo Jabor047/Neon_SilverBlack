@@ -1,9 +1,17 @@
 {
 	"name": "neon-silver-black-theme",
-	"version": "1.5.0",
+	"displayName": "Neon Silver Black",
+	"version": "1.5.1",
 	"publisher": "Jabor047",
 	"description": "Neon Silver-font Pitch-black ui",
-	"repository": "https://github.com/Jabor047/Neon_SilverBlack",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jabor047/Neon_SilverBlack"
+	},
+	"bugs": {
+		"url": "https://github.com/Jabor047/Neon_SilverBlack/issues"
+	},
 	"engines": {
 		"vscode": "^1.18.0"
 	},
@@ -22,9 +30,23 @@
 	"keywords": [
 		"black",
 		"neon",
-		"silver"
+		"silver",
+		"dark",
+		"theme",
+		"cursor"
 	],
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"scripts": {
+		"package": "vsce package",
+		"publish:vsce": "vsce publish",
+		"publish:ovsx": "ovsx publish",
+		"publish:all": "npm run package && vsce publish --packagePath *.vsix && ovsx publish *.vsix"
+	},
 	"devDependencies": {
-		"vsce": "^1.103.1"
+		"@vscode/vsce": "^4.1.0",
+		"ovsx": "^1.4.0"
 	}
 }
