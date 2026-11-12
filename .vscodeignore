@@ -3,3 +3,8 @@ node_modules/**
 .gitignore
 package-lock.json
 *.vsix
+.DS_Store
+images/python.png
+images/terraform.png
+images/git_actions.png
+images/menu-overview.png
