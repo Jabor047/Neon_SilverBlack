@@ -1,10 +1,11 @@
 {
 	"name": "neon-silver-black-theme",
 	"displayName": "Neon Silver Black",
-	"version": "1.5.1",
+	"version": "2.0.0",
 	"publisher": "Jabor047",
 	"description": "Neon Silver-font Pitch-black ui",
 	"license": "MIT",
+	"icon": "images/icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Jabor047/Neon_SilverBlack"
@@ -21,7 +22,8 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Neon Black Silver",
+				"id": "Neon Black Silver",
+				"label": "Neon Silver Black",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Neon_SilverBlack.json"
 			}
