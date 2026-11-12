@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.1
+
+- Untracked files in the explorer are lavender (`#b3a6ff`). They were teal, the same colour as built-in types in code.
+
 ## 2.0.0
 
 A refresh of the whole theme. The pitch-black background, silver text and neon green accents are unchanged, but many syntax colours are different, so expect your code to look different after updating.
