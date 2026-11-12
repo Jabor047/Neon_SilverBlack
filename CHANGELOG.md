@@ -29,7 +29,7 @@ A refresh of the whole theme. The pitch-black background, silver text and neon g
 - Buttons have a green border and text so they are visible on the black background.
 - Notifications have a border, and the status bar shows a red line while debugging.
 - The find and replace widget has a dark grey border instead of green.
-- Warnings are a brighter green (`#8fd43a`) so they are easier to see.
+- Warnings are lime yellow (`#d3fc00`) instead of dark green, so they are easier to see and read as warnings.
 - Placeholder text, ignored files and dim terminal text are lighter for better contrast.
 
 ### Clean-up
