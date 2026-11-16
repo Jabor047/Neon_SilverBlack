@@ -44,7 +44,7 @@
             "foreground": "#6a8d94",
             "fontStyle": "italic"
         },
-        "string": "#ca78a5",
+        "string": "#b3a6ff",
         "number": "#D8985F",
         "regexp": "#57B6C2",
         "hcl-blockType": {
@@ -58,7 +58,7 @@
         "hcl-referenceStep": "#e5c07b",
         "hcl-bool": "#D8985F",
         "hcl-number": "#D8985F",
-        "hcl-string": "#ca78a5",
+        "hcl-string": "#b3a6ff",
         "hcl-keyword": "#D55FDE",
         "hcl-typePrimitive": {
             "foreground": "#D55FDE",
@@ -218,7 +218,7 @@
         "gitDecoration.addedResourceForeground": "#00FF9C",
         "gitDecoration.modifiedResourceForeground": "#e5c07b",
         "gitDecoration.deletedResourceForeground": "#ff1865",
-        "gitDecoration.untrackedResourceForeground": "#b3a6ff",
+        "gitDecoration.untrackedResourceForeground": "#ca78a5",
         "gitDecoration.ignoredResourceForeground": "#7f848e",
         "gitDecoration.conflictingResourceForeground": "#d55fde",
         "widget.border": "#2c313a",
@@ -905,7 +905,7 @@
         "name": "Strings, Inherited Class",
         "scope": "string, entity.other.inherited-class",
         "settings": {
-            "foreground": "#ca78a5"
+            "foreground": "#b3a6ff"
         }
         },
         {
@@ -1246,7 +1246,7 @@
         "scope":
             "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
         "settings": {
-            "foreground": "#ca78a5"
+            "foreground": "#b3a6ff"
         }
         },
         {

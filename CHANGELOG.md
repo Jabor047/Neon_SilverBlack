@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.2
+
+- Strings are lavender (`#b3a6ff`) in every language. They were pink.
+- Untracked files in the explorer are pink (`#ca78a5`). They were lavender, so the two colours have swapped places.
+
 ## 2.0.1
 
 - Untracked files in the explorer are lavender (`#b3a6ff`). They were teal, the same colour as built-in types in code.
