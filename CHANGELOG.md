@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.3
+
+- Function and method calls in Python are neon green (`#00FF9C`), matching function names where they are defined. They were blue.
+- Python's built-in functions such as `print`, `len` and `open`, and special methods such as `__init__`, stay blue (`#52ADF2`).
+
 ## 2.0.2
 
 - Strings are lavender (`#b3a6ff`) in every language. They were pink.
